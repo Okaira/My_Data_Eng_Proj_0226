@@ -1,6 +1,4 @@
 # AFCON Data Cleaning Pipeline
-# AFCON Data Cleaning Pipeline
-
 This branch contains the data cleaning workflow for the AFCON dataset.  
 The goal is to transform raw match, team, and player data into a clean, analysis-ready format.
 
